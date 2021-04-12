@@ -22,7 +22,7 @@ ul{
 }
 /* header start */
 .nav{
-    background: #322E41;
+    background: red;
 }
 .header__container{
     display: flex;
